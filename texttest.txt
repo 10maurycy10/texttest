@@ -1,0 +1,41 @@
+ligature test:
+>>==<< >==<  <<==>> <> <=><= >= => <==
+-> --- <-> >>-<< <<->>
+= == ===
+!= @= #= $= %= ^= &= *= (= )= "= '=
+ae fi CE AE Th
+. .. ... .... - -- --- ----
+
+misc:
+123456789
+abcdefghijklmenopqrstuvxyz
+ABCDEFGHIJKLMENOPQRSTUVXYZ
+~!@#$%^&*()_+{}|:"<>?
+`1234567890-=[]\;',./
+
+unicode test:
+
+😀⛓️
+
+zerospace​zerospace​zerospace​zerospace​zerospace​zerospace​zerospacezerospace​zerospace​zerospace​zerospace​zerospace​​
+
+non breaking non breaking non breaking non breaking non breaking non breaking non breaking non breaking non breaking non breaking 
+
+thin space  : o o  o   o    o
+narrow space: o o  o   o    o
+
+‏this text is rtl‎
+
+combining bridge across: a͆a͆a
+comma above: ̓a ̓a ̓
+
+arrows: ⇒ ⇘ 
+
+box drawing
+
+├┬╥
+├┘╩
+└ 
+
+
+
